@@ -5,13 +5,6 @@
 
 This is an older version of my Colorbot for valorant, i have played 6 months with it without getting banned. The reason i make it public is cuz i made it much better trough the time, and too give you a great starting base.
 
-## ⚠️ DISCLAIMER / NOTES
-
-- **Compatibility**: This software is designed for Arduino Leonardo boards only (you will need an usb host shield aswell).
-- **Undetected**: I used it myself for around 6 months without a ban. But use it at your own risk.
-- **Responsibility**: This software is intended for educational purposes only. I am not responsible for any account bans, penalties, or any other consequences that may result from using this tool. Use it at your own risk and be aware of the potential implications.
-
-
 ## ✍️ Usage
 
 1. **Spoof Arduino**:
@@ -30,3 +23,11 @@ This is an older version of my Colorbot for valorant, i have played 6 months wit
 6. **In-Game Settings**:
    - I prefer my ingame sens to **0.45**.
    - Make sure to change enemy outline to **Purple**.
+
+For help you can join my discord server.
+
+## ⚠️ DISCLAIMER / NOTES
+
+- **Compatibility**: This software is designed for Arduino Leonardo boards only (you will need an usb host shield aswell).
+- **Undetected**: I used it myself for around 6 months without a ban. But use it at your own risk.
+- **Responsibility**: This software is intended for educational purposes only. I am not responsible for any account bans, penalties, or any other consequences that may result from using this tool. Use it at your own risk and be aware of the potential implications.
