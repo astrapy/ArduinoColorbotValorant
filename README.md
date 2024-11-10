@@ -1,18 +1,18 @@
 [![Discord](https://discordapp.com/api/guilds/1235469363050577950/widget.png?style=shield)](https://discord.gg/uYzHwJrCCV)
-## PREVIEW
+## 📹 PREVIEW
 
-I have uploaded some preview videos in my discord server.
+[https://streamable.com/xwlera]
 
-This is an old version of my Colorbot for valorant, i have played 6 months with it without getting banned. The reason i make it public is cuz i made it much better trough the time, and too give you a great starting base.
+This is an older version of my Colorbot for valorant, i have played 6 months with it without getting banned. The reason i make it public is cuz i made it much better trough the time, and too give you a great starting base.
 
-## DISCLAIMER
+## ⚠️ DISCLAIMER / NOTES
 
 - **Compatibility**: This software is designed for Arduino Leonardo boards only (you will need an usb host shield aswell).
 - **Undetected**: I used it myself for around 6 months without a ban. But use it at your own risk.
 - **Responsibility**: This software is intended for educational purposes only. I am not responsible for any account bans, penalties, or any other consequences that may result from using this tool. Use it at your own risk and be aware of the potential implications.
 
 
-## Setup Instructions
+## ✍️ Usage
 
 1. **Spoof Arduino**:
    - You will have to spoof your Arduino Leonardo yourself, by changing it to your mouse's VID and PID, Since valorant only allows only 1 input.
