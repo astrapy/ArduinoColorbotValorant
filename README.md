@@ -3,8 +3,8 @@
 
 [https://streamable.com/xwlera]
 
-This is an older version of my Colorbot for valorant, i have played 6 months with it without getting banned. The reason i make it public is cuz i made it much better trough the time, and too give you a great starting base.
-
+This is an really old version of my Colorbot for valorant, i have played 6 months with it without getting banned. The reason i make it public is cuz i made it much better trough the time, and too give you a great starting base.
+Join my discord server to purchase the Private version which is much more precise and undetected.
 ## ✍️ Usage
 
 1. **Spoof Arduino**:
